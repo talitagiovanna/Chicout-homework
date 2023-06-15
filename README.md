@@ -1,6 +1,6 @@
 # Data Structure Activity
 
->Status: In progress; 
+>Status: In progress
 
 ### 1. Objective
 
