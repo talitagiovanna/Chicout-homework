@@ -1,3 +1,8 @@
+/*
+7. Escreva uma função que faça uma busca em uma lista encadeada crescente. Faça
+versões recursiva e iterativa.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 
