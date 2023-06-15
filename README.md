@@ -8,15 +8,15 @@
 
 ### 2. Table Team and Questions
 
-Person       | Questions                                                   | Link
-:-------------:| ----------------------------------------------------------- | :---------------------------------:
-Talita       | 1  | 
-Antônio      | 2  | 
-Joicy        | 3  | 
-Iago         | 4  | 
-Tércio       | 5  | 
-Leonardo     | 6  | 
-Rubens       | 7  | 
-Jhonas       | 8  | 
-Joana        | 9, 12 | 
-Guilherme    | 10, 11 | 
+Person     | Questions | 
+:---------:| --------- | 
+Talita     | 1  | 
+Antônio    | 2  | 
+Joicy      | 3  | 
+Iago       | 4  | 
+Tércio     | 5  | 
+Leonardo   | 6  | 
+Rubens     | 7  | 
+Jhonas     | 8  | 
+Joana      | 9, 12 | 
+Guilherme  | 10, 11 | 
