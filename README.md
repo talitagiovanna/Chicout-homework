@@ -24,4 +24,5 @@ Guilherme  | 10, 11* |
 ### 3. Observation
 
 > Please pay attention!
+
 >*Questions with all the letters from the list, but made as comments in the code.
