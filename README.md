@@ -1,6 +1,6 @@
 # Data Structure Activity
 
->Status: In progress
+>Status: Finished
 
 ### 1. Objective
 
@@ -17,6 +17,11 @@ Iago       | 4  |
 Tércio     | 5  | 
 Leonardo   | 6  | 
 Rubens     | 7  | 
-Jhonas     | 8  | 
+Jhonas     | 8*  | 
 Joana      | 9, 12 | 
-Guilherme  | 10, 11 | 
+Guilherme  | 10, 11* | 
+
+### 3. Observation
+
+> Please pay attention!
+*Questions with all the letters from the list, but made as comments in the code.
